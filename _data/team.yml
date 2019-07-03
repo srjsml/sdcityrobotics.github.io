@@ -1,22 +1,22 @@
 - name: Leadership
   members:
-     - name: DJ Brown
-       pic: djbrown.jpg
+     - name: Benny De La Rosa
+       pic: bennydelarosa.jpg
        info: President
-     - name: Arnold Suarez
-       pic: arnoldsuarez.jpg
-       info: Vice President
      - name: Leila Firestone
        pic: leilafirestone.jpg
+       info: Vice President
+     - name: Charles
+       pic: 
        info: Treasurer
-     - name: Matt Bailey
-       pic: mattbailey.jpg
+     - name: Seeraj Somla
+       pic: 
        info: Secretary
      - name: Shane Jost
        pic: shanejost.jpg
        info: PR Manager
-     - name: Bob Pruitt
-       pic: bobpruitt.jpg
+     - name: Gina Bochicchio
+       pic: ginabochicchio.jpg
        info: Faculty Advisor
 
 - name: Software
@@ -29,6 +29,12 @@
        pic: nikitabobrov.jpg
      - name: Edward Richards
        pic: nedrichards.jpg
+     - name: Christian Pratt
+       pic: christianpratt.jpg
+     - name: DJ Brown
+       pic: djbrown.jpg
+     - name: Thomas Lucio
+       pic: 
 
 - name: Mechanical
   members:
@@ -38,10 +44,10 @@
        pic: lindaclarkmurillo.jpg
      - name: Calvin Dixon
        pic: calvindixon.jpg
-     - name: Christian Pratt
-       pic: christianpratt.jpg
      - name: Benny De La Rosa
        pic: bennydelarosa.jpg
+     - name: Melissa Bodenmiller
+       pic: 
   
 - name: Electrical
   members:
@@ -53,10 +59,13 @@
        pic:
      - name: Parker Togut
        pic: parkertogut.jpg
-     - name: Gina Bochicchio
-       pic: ginabochicchio.jpg
+     - name:  Bob Pruitt
+       pic: bobpruitt.jpg
        info: Faculty Assistant
      - name: Tim Mann
        pic: timmann.jpg
-     
+     - name: Ruth
+       pic: 
+     - name: Arnold Suarez
+       pic: 
   
